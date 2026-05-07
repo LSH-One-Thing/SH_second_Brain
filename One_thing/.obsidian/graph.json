@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:wiki  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.541237113402062,
+  "repelStrength": 7.7319587628866,
+  "linkStrength": 0.479381443298969,
+  "linkDistance": 367,
+  "scale": 0.3628873693012122,
+  "close": true
+}

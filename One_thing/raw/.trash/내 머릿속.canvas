@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"61b81a54e00ff8d8","type":"text","text":"관심 분야","x":-125,"y":-30,"width":250,"height":60,"color":"2"},
+		{"id":"d970998a9b01f829","type":"text","text":"코딩 ","x":-125,"y":120,"width":250,"height":60,"color":"1"},
+		{"id":"c48420d5d482a4b4","type":"text","text":"경제적 자유","x":-440,"y":180,"width":250,"height":60,"color":"1"},
+		{"id":"c81240f387bfbc17","type":"text","text":"영어 유창하게 쓰고 싶음","x":-720,"y":90,"width":250,"height":60,"color":"1"},
+		{"id":"483c83b587d05a51","x":-440,"y":0,"width":250,"height":60,"type":"text","text":"문가영 "},
+		{"id":"13ded5553172da77","x":-720,"y":-90,"width":250,"height":60,"type":"text","text":"지적인 사람을 동경하게됨"},
+		{"id":"8b0730ba53563045","x":-375,"y":-150,"width":250,"height":60,"type":"text","text":"이혜성"},
+		{"id":"f5d2aa59e929b947","x":-440,"y":320,"width":250,"height":60,"type":"text","text":"1인 기업 "},
+		{"id":"1f49f40b15f07a99","x":-351,"y":440,"width":250,"height":60,"type":"text","text":"비즈니스 주제 못정함"},
+		{"id":"a330df9f3fd769aa","x":261,"y":-120,"width":250,"height":60,"color":"1","type":"text","text":"독서"},
+		{"id":"5c986829fdc017dc","x":136,"y":-260,"width":250,"height":60,"color":"1","type":"text","text":"글쓰기"},
+		{"id":"8495fe8f4924c8c8","x":320,"y":0,"width":250,"height":60,"color":"1","type":"text","text":"사색"},
+		{"id":"1934ee5599e42c7a","x":600,"y":-150,"width":250,"height":60,"type":"text","text":"많이 읽기보단 제대로 읽고 싶음"}
+	],
+	"edges":[
+		{"id":"49ea1ffa64db8102","fromNode":"c48420d5d482a4b4","fromSide":"right","toNode":"d970998a9b01f829","toSide":"left"},
+		{"id":"d419d16d641f78c8","fromNode":"d970998a9b01f829","fromSide":"left","toNode":"c48420d5d482a4b4","toSide":"right"},
+		{"id":"0ec9bf8c276aeece","fromNode":"61b81a54e00ff8d8","fromSide":"bottom","toNode":"d970998a9b01f829","toSide":"top"},
+		{"id":"74f761453bb4a1ce","fromNode":"483c83b587d05a51","fromSide":"bottom","toNode":"c81240f387bfbc17","toSide":"right"},
+		{"id":"0ccee924111b227f","fromNode":"483c83b587d05a51","fromSide":"left","toNode":"13ded5553172da77","toSide":"right"},
+		{"id":"6140aedca5b54a20","fromNode":"8b0730ba53563045","fromSide":"bottom","toNode":"13ded5553172da77","toSide":"right"},
+		{"id":"914a4cfe1978e3e0","fromNode":"61b81a54e00ff8d8","fromSide":"bottom","toNode":"c48420d5d482a4b4","toSide":"top"},
+		{"id":"ff994d88d588c5d8","fromNode":"c48420d5d482a4b4","fromSide":"bottom","toNode":"f5d2aa59e929b947","toSide":"top"},
+		{"id":"69ab56fe1bdacf44","fromNode":"f5d2aa59e929b947","fromSide":"bottom","toNode":"1f49f40b15f07a99","toSide":"top"},
+		{"id":"f075e38b40a873d1","fromNode":"c81240f387bfbc17","fromSide":"bottom","toNode":"d970998a9b01f829","toSide":"bottom"},
+		{"id":"47b39a9c6585fcd2","fromNode":"d970998a9b01f829","fromSide":"bottom","toNode":"c81240f387bfbc17","toSide":"bottom"},
+		{"id":"2d299f748fec1e6c","fromNode":"61b81a54e00ff8d8","fromSide":"right","toNode":"a330df9f3fd769aa","toSide":"left"},
+		{"id":"dee96f039eec10cf","fromNode":"a330df9f3fd769aa","fromSide":"bottom","toNode":"8495fe8f4924c8c8","toSide":"top"},
+		{"id":"30a0d97d9f3c8931","fromNode":"a330df9f3fd769aa","fromSide":"top","toNode":"5c986829fdc017dc","toSide":"bottom"},
+		{"id":"9c73d4345ba603a1","fromNode":"5c986829fdc017dc","fromSide":"bottom","toNode":"a330df9f3fd769aa","toSide":"top"},
+		{"id":"90f7533b88f43815","fromNode":"8495fe8f4924c8c8","fromSide":"top","toNode":"a330df9f3fd769aa","toSide":"bottom"},
+		{"id":"6d13ab75112acbb9","fromNode":"1934ee5599e42c7a","fromSide":"left","toNode":"a330df9f3fd769aa","toSide":"right"},
+		{"id":"47cf366bb192aa56","fromNode":"a330df9f3fd769aa","fromSide":"right","toNode":"1934ee5599e42c7a","toSide":"left"},
+		{"id":"e932633c08d1eefa","fromNode":"8495fe8f4924c8c8","fromSide":"bottom","toNode":"5c986829fdc017dc","toSide":"left"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"e6c2c0c60c189d42","x":-69,"y":-170,"width":250,"height":60,"color":"#e6a3a3","type":"text","text":"뇌 구조"},
+		{"id":"a5e61b2988e3c36d","x":-300,"y":-300,"width":250,"height":60,"type":"text","text":"코딩 공부"},
+		{"id":"b0de9783972c4c63","x":-300,"y":0,"width":250,"height":60,"type":"text","text":"영어 스피킹 공부 "},
+		{"id":"b85e4f33781f90e1","x":240,"y":-270,"width":250,"height":60,"type":"text","text":"독서"},
+		{"id":"2759932aed9a5eac","x":80,"y":60,"width":250,"height":60,"type":"text","text":"영어 원서 독서 "},
+		{"id":"c092bb4b48d72e69","x":365,"y":-80,"width":250,"height":60,"type":"text","text":"글쓰기"},
+		{"id":"1c080c50ff8605af","x":700,"y":-20,"width":250,"height":60,"type":"text","text":"소설 창작"},
+		{"id":"3b08eb4d2c89b013","x":420,"y":90,"width":250,"height":60,"type":"text","text":"내적 글쓰기"}
+	],
+	"edges":[
+		{"id":"efabf3bec600f650","fromNode":"e6c2c0c60c189d42","fromSide":"bottom","toNode":"b0de9783972c4c63","toSide":"top"},
+		{"id":"d0a9ec42a329163e","fromNode":"e6c2c0c60c189d42","fromSide":"bottom","toNode":"2759932aed9a5eac","toSide":"top"},
+		{"id":"623d7829a7d0573a","fromNode":"e6c2c0c60c189d42","fromSide":"top","toNode":"b85e4f33781f90e1","toSide":"left"},
+		{"id":"cb4e32d77c65df68","fromNode":"e6c2c0c60c189d42","fromSide":"top","toNode":"a5e61b2988e3c36d","toSide":"bottom"},
+		{"id":"49925f5e580f267a","fromNode":"b85e4f33781f90e1","fromSide":"bottom","toNode":"2759932aed9a5eac","toSide":"top"},
+		{"id":"f4985e64754a0374","fromNode":"c092bb4b48d72e69","fromSide":"bottom","toNode":"3b08eb4d2c89b013","toSide":"top"},
+		{"id":"63500dbb27f6d96d","fromNode":"c092bb4b48d72e69","fromSide":"right","toNode":"1c080c50ff8605af","toSide":"left"},
+		{"id":"5bf677c90fd53e46","fromNode":"e6c2c0c60c189d42","fromSide":"bottom","toNode":"c092bb4b48d72e69","toSide":"top"}
+	]
+}
