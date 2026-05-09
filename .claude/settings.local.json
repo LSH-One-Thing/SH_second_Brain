@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\raw\" /B /O:D)",
+      "WebSearch",
+      "WebFetch(domain:youtube.com)",
+      "WebFetch(domain:socialblade.com)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:namu.wiki)",
+      "WebFetch(domain:dasehe.com)",
+      "WebFetch(domain:www.mylittleyoutuber.com)",
+      "Bash(del *)",
+      "Bash(git *)"
+    ]
+  }
+}
