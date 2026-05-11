@@ -18,18 +18,18 @@ One_thing_valut/
     ├── 00_Assets/        # 이미지·첨부파일
     ├── 01_Personal/      # 개인 학습·자기분석 (사용자가 추가, Claude는 읽기만)
     │   ├── 01_Self_Analysis/
-    │   ├── 02_Mindset_Philosophy/
-    │   ├── 03_Dev_Python/
-    │   ├── 04_Lang_English/
-    │   └── 05_Reading_Notes/
+    │   ├── 10_Mindset_Philosophy/
+    │   ├── 20_Reading_Notes/
+    │   ├── 30_Dev_Python/
+    │   └── 40_Lang_English/
     ├── 02_Work/          # 콘텐츠 제작·프로젝트 (사용자가 추가, Claude는 읽기만)
-    │   ├── 01_Projects/
-    │   ├── 02_Content_Creator/
-    │   ├── 03_Business_Ideas/
-    │   ├── 04_Insight_Sources/
-    │   ├── 05_Concepts/
-    │   ├── 06_Thinking_Writing/
-    │   └── 07_References/
+    │   ├── 01_Content_Creator/
+    │   ├── 10_Projects/
+    │   ├── 20_Thinking_Writing/
+    │   ├── 30_Business_Ideas/
+    │   ├── 40_Insight_Sources/
+    │   ├── 50_Concepts/
+    │   └── 60_References/
     ├── 03_Templates/     # 옵시디언 템플릿·프롬프트
     ├── 04_Inbox/         # 임시 캡처 (처리 후 분류)
     ├── 99_Archive/       # 종료 프로젝트·오래된 기록
