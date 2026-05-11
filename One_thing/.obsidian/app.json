@@ -2,5 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "raw"
+  "newFileFolderPath": "04_Inbox",
+  "attachmentFolderPath": "00_Assets"
 }

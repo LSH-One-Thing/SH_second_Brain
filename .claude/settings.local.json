@@ -10,7 +10,10 @@
       "WebFetch(domain:dasehe.com)",
       "WebFetch(domain:www.mylittleyoutuber.com)",
       "Bash(del *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(powershell -command \"\\(Get-Item 'One_thing/raw/임승현 정보/conversations.json'\\).Length / 1MB\")",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\raw\\\\\" -Recurse | Where-Object { $_.Name -match \"라이프|코드|life|code\" } | Select-Object FullName)",
+      "Bash(Remove-Item *)"
     ]
   }
 }
