@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv 'C:/Users/USER/Desktop/One_thing_valut/One_thing/40_Inbox/[내 생각] - 나는 항구에서 출발도 못하고 있다..md' C:/Users/USER/Desktop/One_thing_valut/One_thing/10_Personal/01_Self_Analysis/)",
+      "Bash(mv '__TRACKED_VAR__/[내 생각] - 자청 블로그.md' __TRACKED_VAR__/10_Mindset_Philosophy/)",
+      "Bash(mv '__TRACKED_VAR__/[내 생각] AI는 신기루.md' __TRACKED_VAR__/10_Mindset_Philosophy/)",
+      "Bash(mv '__TRACKED_VAR__/[내생각]- 단편적인 주장.md' __TRACKED_VAR__/10_Mindset_Philosophy/)",
+      "Bash(mv '__TRACKED_VAR__/[독서] 이방인.md' __TRACKED_VAR__/20_Reading_Notes/)",
+      "Bash(mv 'C:/Users/USER/Desktop/One_thing_valut/One_thing/40_Inbox/[장동선]- 일단 시작하고 행동해야 뇌가 바뀝니다  행동의 뇌과학.md' C:/Users/USER/Desktop/One_thing_valut/One_thing/20_Work/40_Insight_Sources/)",
+      "Bash(mv '__TRACKED_VAR__/[북토크]-성공한 사람들이 행동력 500% 끌어올리는 법  타이탄의 비밀노트 ep. 11.md' __TRACKED_VAR__/)",
+      "Bash(mv '__TRACKED_VAR__/[독서] - 마케팅 설계자.md' __TRACKED_VAR__/)",
+      "Bash(mv '__TRACKED_VAR__/[유튜브 팁]-책이벤트 짝퉁 알고리즘 지식에 속지 마세요 조회수 늘리는 근본 원칙  주힘찬  '\\\\''슈퍼 유튜버'\\\\'' 공동저자, 채널 피보터  유튜브 알고리즘  공부로 보는 세바시.md' __TRACKED_VAR__/)",
+      "Bash(mv '__TRACKED_VAR__/[인사이트] - 뉴스레터 구독하는 심리.md' __TRACKED_VAR__/)"
+    ]
+  }
+}

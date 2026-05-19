@@ -14,7 +14,10 @@
       "Bash(powershell -command \"\\(Get-Item 'One_thing/raw/임승현 정보/conversations.json'\\).Length / 1MB\")",
       "PowerShell(Get-ChildItem \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\raw\\\\\" -Recurse | Where-Object { $_.Name -match \"라이프|코드|life|code\" } | Select-Object FullName)",
       "Bash(Remove-Item *)",
-      "Bash(dir C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\40_Inbox *)"
+      "Bash(dir C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\40_Inbox *)",
+      "Skill(obsidian:obsidian-markdown)",
+      "PowerShell(Get-ChildItem *)",
+      "Bash(grep \"\\\\.md$\")"
     ]
   }
 }
