@@ -17,7 +17,13 @@
       "Bash(dir C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\40_Inbox *)",
       "Skill(obsidian:obsidian-markdown)",
       "PowerShell(Get-ChildItem *)",
-      "Bash(grep \"\\\\.md$\")"
+      "Bash(grep \"\\\\.md$\")",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\20_Work\\\\30_Business_Ideas\" -File)",
+      "Bash(Measure-Object)",
+      "Bash(Select-Object -ExpandProperty Count)",
+      "Bash(Get-Content \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\20_Work\\\\40_Insight_Sources\\\\[너진똑]-책을 읽어야 하는 '진짜' 이유.md\")",
+      "Bash(Select-Object -First 50)",
+      "Bash(dir \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\40_Inbox\")"
     ]
   }
 }
