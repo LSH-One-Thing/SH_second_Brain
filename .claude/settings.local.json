@@ -23,7 +23,11 @@
       "Bash(Select-Object -ExpandProperty Count)",
       "Bash(Get-Content \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\20_Work\\\\40_Insight_Sources\\\\[너진똑]-책을 읽어야 하는 '진짜' 이유.md\")",
       "Bash(Select-Object -First 50)",
-      "Bash(dir \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\40_Inbox\")"
+      "Bash(dir \"C:\\\\Users\\\\USER\\\\Desktop\\\\One_thing_valut\\\\One_thing\\\\40_Inbox\")",
+      "Bash(mv \"One_thing/40_Inbox/조승연X데미스 하사비스 인터뷰 -생각 정리.md\" \"One_thing/20_Work/40_Insight_Sources/\")",
+      "Bash(mv \"One_thing/40_Inbox/나에게 맞는 AI 활용법 -제안.md\" \"One_thing/10_Personal/10_Mindset_Philosophy/\")",
+      "Bash(mv \"One_thing/40_Inbox/나에게 맞는 AI활용법-영어 공부법.md\" \"One_thing/10_Personal/40_Lang_English/\")",
+      "Bash(mv \"One_thing/40_Inbox/자청- 제목 짓기.md\" \"One_thing/20_Work/20_Thinking_Writing/\")"
     ]
   }
 }
